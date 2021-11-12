@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PROGRAM-DATE-TIME:2021-11-12T02:11:00.051Z
+#EXT-X-MEDIA-SEQUENCE:42248
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-PROGRAM-DATE-TIME:2021-11-12T02:21:20.632Z
 #EXTINF:5.0,
-https://r1---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1636704662&ei=Ns2NYZ74MJqJgQPtw62YCA&ip=123.192.131.77&id=o-AGZP89KwcfHPDncOE4u24nKYjFWvBMPzLyFW7CShvoCB&itag=18&source=youtube&requiressl=yes&mh=XK&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xd&ms=au%2Crdu&mv=m&mvi=1&pl=26&initcwndbps=947500&vprv=1&mime=video%2Fmp4&ns=bWrM_ixQAQOt4y9zjDVBelsG&gir=yes&clen=225728841&ratebypass=yes&dur=2930.985&lmt=1630283930421875&mt=1636682705&fvip=1&fexp=24001373%2C24007246&c=WEB&txp=6430434&n=sXOab9X91u4Hsy2XbB&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAPPLzzbc1zlgPJ5IQ6tARF_20ssvYC6Px8jVUascsqHXAiEAi8YzWqt-Qt0Gl4QxhZ8de68oOEfXv5CQqD_nUwbGRfI%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAOMYIrUvQGMe6u6IA9bLNPdKIhKnnn3xlfqa760TlRMFAiEArn3fHL4hSYg4KwDXzjQBl7ufdHNOAO3ALfgx2tLjYHE%3D
+https://r1---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1636705283&ei=o8-NYer9F_iPvcAP4rCQyA0&ip=123.192.131.77&id=o-AEWZYcIs2wgDoHel8odaZq1xFjr4OKePdaccK3WKQhZP&itag=18&source=youtube&requiressl=yes&mh=XK&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xd&ms=au%2Crdu&mv=m&mvi=1&pcm2cms=yes&pl=26&initcwndbps=873750&vprv=1&mime=video%2Fmp4&ns=66f-AAAGp4qJemGHGUik2nMG&gir=yes&clen=225728841&ratebypass=yes&dur=2930.985&lmt=1630283930421875&mt=1636683185&fvip=1&fexp=24001373%2C24007246&c=WEB&txp=6430434&n=6uD1Nw0svRDCN2w4sA&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAKYjI55tApgKPAxddjt8kB6iY2gyMA5uHOs2QR9_TdIFAiEA5kt8feJyw24i1TK_0OlNHYsqza0h_b14LQqE23fLO2Y%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAPC35zT2OmecPLWmYKF0KNRDzYkyzmQQRrd4AvsuPQR8AiA1wPNggST_4sKnIi7ES-IeTNSsYYGVp6PNmmd__9NyQw%3D%3D

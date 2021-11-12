@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PROGRAM-DATE-TIME:2021-11-12T02:10:50.932Z
+#EXT-X-MEDIA-SEQUENCE:42248
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-PROGRAM-DATE-TIME:2021-11-12T02:21:11.360Z
 #EXTINF:5.0,
-https://r1---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1636704653&ei=Lc2NYemeNL6dvcAP6d27gAs&ip=123.192.131.77&id=o-ADs490BUyISU6OzExFEH7QKyv_bvfn8aXzZg0mHW8xV4&itag=18&source=youtube&requiressl=yes&mh=g9&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xd&ms=au%2Crdu&mv=m&mvi=1&pl=26&initcwndbps=947500&vprv=1&mime=video%2Fmp4&ns=gE47pIthAijzqvSXimwM8kAG&gir=yes&clen=875960377&ratebypass=yes&dur=14275.070&lmt=1636626894500561&mt=1636682705&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=7310222&n=5U6HhlFvTpkPijuplQ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgF0zRWdXSxaP8pVbaH34LlxTgG9raFGmGI2fKgkw03_0CIQDNM7VguaWL3-DAEicChG_JdzPA1U0WrEbqsCiHq6u48Q%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAOrk2yHQnKshGxsAAj4qb02AD5kbPGyLJtXzJJRrYEHdAiBtvSNKqZa4Dbl1WFCF7hum2hKVFZeGhh2jBqeAQmuqiw%3D%3D
+https://r1---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1636705274&ei=ms-NYd2NEbuR1d8PosWI4A0&ip=123.192.131.77&id=o-AIrBLp4bZV5jCYNmRUjOk5EhYUONMTPJGjh5GNuesBkV&itag=18&source=youtube&requiressl=yes&mh=g9&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xd&ms=au%2Crdu&mv=m&mvi=1&pcm2cms=yes&pl=26&initcwndbps=932500&vprv=1&mime=video%2Fmp4&ns=do_OYA3zWq4AHaBitNwDlgwG&gir=yes&clen=875960377&ratebypass=yes&dur=14275.070&lmt=1636626894500561&mt=1636683427&fvip=5&fexp=24001373%2C24007246&c=WEB&txp=7310222&n=44DLInF9ngKyt0xHwb&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgUvZtIB7g9TbbrW-EuRF9ZW5HMMdJcjQ_mK4d3xRl-4YCIQDSI7RXJaaIglbih6tNGecuZXL6epiE-P2gJdaDlpZUtg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhANzPNZTjsJHK-1IZxCAObPlmIcJ3hnoaPa9MFqPg09PzAiEAzkJOxX_Pud60TL_KANgulZRgHejt5xqFlo9zWCNh4SY%3D

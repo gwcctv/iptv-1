@@ -1,7 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-PROGRAM-DATE-TIME:2021-11-12T02:10:55.929Z
+#EXT-X-MEDIA-SEQUENCE:42248
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-PROGRAM-DATE-TIME:2021-11-12T02:21:16.637Z
 #EXTINF:5.0,
-https://r3---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1636704658&ei=Ms2NYYCuNKWN1d8P296RsAw&ip=123.192.131.77&id=o-AKwDLuuspkTrQIO4r45szbkxR5i-s6XBDY66s85dP_dh&itag=18&source=youtube&requiressl=yes&mh=Qh&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2x6&ms=au%2Crdu&mv=m&mvi=3&pl=26&initcwndbps=947500&vprv=1&mime=video%2Fmp4&ns=RenQIrzs3KzU3qUvGHQzCqwG&gir=yes&clen=242252192&ratebypass=yes&dur=2817.671&lmt=1636504195376812&mt=1636682705&fvip=6&fexp=24001373%2C24007246&c=WEB&txp=5430432&n=e8WevJuPbR3Y2fcOSj&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAMhCNH6aAmGZad9zptmNafIe_iXm4_BaXWN9tSZZp-XdAiA4NWU0NOB1QSBaAmBApgoWEYErqL6VuSIesNAehfyfkw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgfA-ZmLQfd1Q8aeDcHl90tzSeMEyhdZIIH9YYCe4QQHkCIQC1qcYTipyO2vBEoUTfX8BgEDiJVmeAXJ3IBky9tUGZCA%3D%3D
+https://r3---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1636705279&ei=n8-NYZivI4z04gLf5aq4Ag&ip=123.192.131.77&id=o-AJaxrve0QNC3NHWKZUleUBScsj7-U2gnr9h0kgFxODoh&itag=18&source=youtube&requiressl=yes&mh=Qh&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2x6&ms=au%2Crdu&mv=m&mvi=3&pcm2cms=yes&pl=26&initcwndbps=873750&vprv=1&mime=video%2Fmp4&ns=GWtWPeyuL4iUITCrfIAYfiEG&gir=yes&clen=242252192&ratebypass=yes&dur=2817.671&lmt=1636504195376812&mt=1636683185&fvip=6&fexp=24001373%2C24007246&c=WEB&txp=5430432&n=7w44MCXSGCb92eDiRj&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgR9orWnoXP5Tx1gcvA6V_J2hqw3uovbn6MELOGyJ1cn8CIBidhEe_XvsChPJOUOHnIeBdTm6oHwDGiqVVgkpvMwiM&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAIIPEzk-OTOH86QDQpZXlZCu4U_iNJNWwl5C9tzt989HAiEA8vWBUTdt8wYBEG6zeUyJOCaXKHqoZKNEwAtn65DIbJQ%3D
