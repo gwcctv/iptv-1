@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:301260
-#EXT-X-DISCONTINUITY-SEQUENCE:11
-#EXT-X-PROGRAM-DATE-TIME:2022-01-05T02:08:44.346Z
-#EXTINF:2.0,
-https://rr3---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1641370134&ei=tv3UYYiNEoqRvcAP8ZeG4A8&ip=123.192.131.77&id=o-AOl2UqRE7Sm0Q6624qLZDmmNvsXlYj7OssiWxR3rHZC_&itag=22&source=youtube&requiressl=yes&mh=R8&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xk&ms=au%2Crdu&mv=m&mvi=3&pl=26&initcwndbps=807500&vprv=1&mime=video%2Fmp4&ns=NYSUNdkep9KEokq3QnqxfZEG&cnr=14&ratebypass=yes&dur=185.643&lmt=1641345953275872&mt=1641348048&fvip=6&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=YfXQ3pQj2XlSALVO&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgRylJJ2HnIItl8LbgsvcXOeK_5A7n_SutdCrWAWMjb5gCIQCa5CKzCjHi01J6QNipmM_nI69LKA8DBDn0TCdyjnpmrw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgBnLLpnvefV1OuAT0xWZYAamjswLpSu3JDopTGsPbFiQCIQDv_RM00GQrk0DnfkYw0gDWD113ryA89-DDLfo_cZd_iQ%3D%3D
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1280000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1641374209/ei/oQ3VYajrBduB2roP6q6IKA/ip/123.192.131.77/id/_R_H7BnOyBU.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-3cgv-un5z.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/5910/mh/6a/mm/44/mn/sn-3cgv-un5z/ms/lva/mv/m/mvi/3/pcm2cms/yes/pl/26/dover/11/keepalive/yes/fexp/24001373,24007246/mt/1641351868/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRAIgWEX7Pi-2fHucrMRpvnrBRy4bBCNPN1ZD5AG8-ZMt2n0CIET26tannhq-F_12cFHwKfFHhZjoOFC10Ndx1VFBrssQ/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRgIhAPb_a4dvRtH3IqHUSF5aj8fwKurqhZ3d1c_YwkeNDeDeAiEAygZwBpq6eVHF-nlEedsgF2Pso1zbJn0RkgSNEpwem0U%3D/playlist/index.m3u8
