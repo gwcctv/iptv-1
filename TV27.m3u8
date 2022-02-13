@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:1231462
-#EXT-X-DISCONTINUITY-SEQUENCE:221
-#EXT-X-PROGRAM-DATE-TIME:13-Feb-2022 (14:25:30.335100)
-#EXTINF:5.0,
-https://rr3---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1644755130&ei=WaQIYtrVOoyTigaF4YS4Dw&ip=123.192.136.114&id=o-AMR9Nhu1LV-br7Ym20DCubumODef75OSXXTpWcAeIC25&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278%2C394%2C395%2C396%2C397%2C398%2C399&source=youtube&requiressl=yes&mh=y-&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xd&ms=au%2Crdu&mv=m&mvi=3&pl=21&initcwndbps=1135000&vprv=1&mime=video%2Fmp4&ns=1s3jfv-zY9fUWmMN51tbzmIG&gir=yes&clen=549454147&dur=2950.013&lmt=1616607631392539&mt=1644733243&fvip=8&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432432&n=lgEBkjseljTgf7H&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAJvcpnsFVdVxPi63tOnsK1W83Nwwrhhj-8_M-0RRanGTAiEAvj10tuTsDPJ_Z6pX6snszLukFfsqgMvEiyljKRWKIng%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgVohLu5o125KgswoEQnhs4p1I2PUaWsEdFL8AJ5NwByICICWYDyg1b8oBoQgFnvbf9a6-qc-es6gVoER3NPG4Eu1B
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:301260
+#EXT-X-DISCONTINUITY-SEQUENCE:11
+#EXT-X-PROGRAM-DATE-TIME:2022-02-13T08:25:52.558Z
+#EXTINF:2.0,
+https://rr3---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1644762356&ei=lMAIYq6gM4X6qAGt56Ao&ip=123.192.136.114&id=o-AB-eliOqZepwKg9TrTOxxW9udDktvPwxu8V0rA6dkNB4&itag=22&source=youtube&requiressl=yes&mh=y-&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xd&ms=au%2Crdu&mv=m&mvi=3&pl=21&initcwndbps=1000000&vprv=1&mime=video%2Fmp4&ns=z3v8YsVYRRXVh6UVwjyNOmsG&cnr=14&ratebypass=yes&dur=2950.072&lmt=1616607749994863&mt=1644740459&fvip=8&fexp=24001373%2C24007246&c=WEB&txp=5432432&n=5HxDvRwK6Cs5MtH&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhANmCJ6OSsRm7mFdn6Yt7KdA0oho0ymW-k26e-scdwCvDAiAZHdi73k2OMvJv41cW68rwg7fz2DngQeGDw-AU7m1sDw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAP81AlqKDQxwjPjMR4WC5zeMHpEX3JTHCCI1gwo46ISPAiBvKXoQ6K2_gcKNuaGWzDLeyBYdYVv-CS_U5GzOD8cZVA%3D%3D
