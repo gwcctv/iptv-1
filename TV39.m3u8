@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:1231462
-#EXT-X-DISCONTINUITY-SEQUENCE:221
-#EXT-X-PROGRAM-DATE-TIME:15-Feb-2022 (09:57:17.660781)
-#EXTINF:5.0,
-https://rr4---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1644911839&ei=fwgLYvieB5aGvcAPupGC-Ac&ip=123.192.136.114&id=o-ABTkX68G5m1mlRJ2i2z4nNLc1T0OpR5v6h29Fwjnh9eP&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=0N&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2x6&ms=au%2Crdu&mv=m&mvi=4&pl=21&initcwndbps=892500&vprv=1&mime=video%2Fmp4&ns=aGAAcT3opvVIAw9xWAEOktYG&gir=yes&clen=28796276&dur=106.406&lmt=1644884995236925&mt=1644889723&fvip=7&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=6310224&n=QLSLlfAJtb3ztV87a&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgRjH6WgCwSOccucNhdjQPGskL2I6_ekhd9USdsYxtQoMCIQCpqb51UZ3sNseMrCDkYxskonNYHlGPzpXvy98yKgEtYg%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMDmw-ta-TA0hZrCkGPdelPfefHoMcTYB0OuGrd3p1wpAiA2LrIUn2yfwYk-0fQdmMJOY_71iJK0crZ5VKVLc1TYHQ%3D%3D
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1280000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1644914348/ei/TBILYpfAIu3u2roP7ZOW8A0/ip/123.192.136.114/id/q0ZHTTy3_qg.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr3---sn-3cgv-un5z.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/6760/mh/Qo/mm/44/mn/sn-3cgv-un5z/ms/lva/mv/m/mvi/3/pcm2cms/yes/pl/21/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1644892353/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,vprv,playlist_type/sig/AOq0QJ8wRgIhAMWmY8n-OqwvIc4e-jsHF6pa8IiZXz0izka8668-2Ws5AiEA7VJt5_30HFcZj3hwUSGxT506Ksar67F9SmEtmt5gs48%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRAIgdhT0Z4irS2QbItiJVoK8qptVg8AsGoAGgF3N5-HQlmgCICg-hkAH4zZB4ugedmTZf-r_OM_TOmD2F6P1-uXf58eZ/playlist/index.m3u8
