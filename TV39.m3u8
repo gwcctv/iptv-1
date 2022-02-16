@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:1231462
-#EXT-X-DISCONTINUITY-SEQUENCE:221
-#EXT-X-PROGRAM-DATE-TIME:16-Feb-2022 (17:26:27.107568)
-#EXTINF:5.0,
-https://rr1---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1645025186&ei=QsMMYpPqEsTJs8IP8YWTsAg&ip=123.192.136.114&id=o-ACsQvMt7uI4QY45pBLIiV9KvMLnBRSAoiGo5ridDh8iq&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=fi&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2x6&ms=au%2Crdu&mv=m&mvi=1&pcm2cms=yes&pl=21&pcm2=yes&initcwndbps=1146250&vprv=1&mime=video%2Fmp4&ns=AxKldQnqueNddmU-VI05ZPEG&gir=yes&clen=18494181&dur=98.565&lmt=1644980860801838&mt=1645003248&fvip=7&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=u6cGbU8SAIuzfqlN0&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cpcm2%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgFbrXnhC2dYf6GcyQTwbRT7xe9yuOCHHURx3JBdHnIsoCIQDDuCThGBzWCb60nQDQg_zMewVzrzupj54YZarSjMuCvw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgOf2a0zGqDTWpJCJAyn9ANyrn5vYtMns0UeCYkSUtBHQCIBhFHNVYK6Ws45JnA1o8qvAUI6_w9TRAAn8voBscfLZd
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1280000
+undefined

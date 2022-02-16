@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:1231462
-#EXT-X-DISCONTINUITY-SEQUENCE:221
-#EXT-X-PROGRAM-DATE-TIME:16-Feb-2022 (17:26:27.897984)
-#EXTINF:5.0,
-https://rr1---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1645025187&ei=Q8MMYo27C-TO2roPvYitiAc&ip=123.192.136.114&id=o-AKpqXU9jiyhl920Rz5R7NQu5kRdp4rNVemJzdlxcJryL&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=cv&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xs&ms=au%2Crdu&mv=m&mvi=1&pcm2cms=yes&pl=21&initcwndbps=1146250&vprv=1&mime=video%2Fmp4&gir=yes&clen=1093240193&dur=4169.965&lmt=1643064964387511&mt=1645003248&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=4432434&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRAIgV3Wam_CMZ2IWTp0nQjrTU7Jc54mpGQiIZ5fxk2v4OMECIBMQxdYX4LeZPX-a9TI1SD_bbjcBsPfAS2yVuo4NLDrR&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgKLzzdpjuGEV41ne83QBrqIjBPeSK8S8uZsuoN6ZDdqoCIA55DZR8XuIe1ZvCZTSZBD_9teLYrbBhIGW-qI4y-LRy
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:301260
+#EXT-X-DISCONTINUITY-SEQUENCE:11
+#EXT-X-PROGRAM-DATE-TIME:2022-02-16T09:35:05.316Z
+#EXTINF:2.0,
+https://rr1---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1645025705&ei=ScUMYpLGFpHT2roP4oeIYA&ip=123.192.136.114&id=o-AJLSIIrsKOYMckWG-7z9sxhhf8H78wLBSNbZuc34DtEb&itag=22&source=youtube&requiressl=yes&mh=cv&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xs&ms=au%2Crdu&mv=m&mvi=1&pl=21&initcwndbps=1157500&vprv=1&mime=video%2Fmp4&ns=_D7B6dqIJDqkJGg-EU9PxfIG&cnr=14&ratebypass=yes&dur=4170.025&lmt=1643063554098921&mt=1645003728&fvip=1&fexp=24001373%2C24007246&c=WEB&txp=4432434&n=QGw6H6LjxTgrSXHcK&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIgU5DjHXdSa4xIyajZlC2tJxLWyzNSV-cJb9J2xaO_62sCIQDy79SqI4z7BQM20rGCxjU-Kl4ND_9Ha4jkAj73qX6yww%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAOJoVZb09oh0hkx5AGqli-wAhMHTz5Gymp1PTKwPbnCqAiAy-fzN3T3ZOIS6suQMLusFcVuJrc66I58LQS6ZTFxXGg%3D%3D
