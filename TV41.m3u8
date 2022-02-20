@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:301260
-#EXT-X-DISCONTINUITY-SEQUENCE:11
-#EXT-X-PROGRAM-DATE-TIME:2022-02-20T01:50:50.323Z
-#EXTINF:2.0,
-undefined
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:1231462
+#EXT-X-DISCONTINUITY-SEQUENCE:221
+#EXT-X-PROGRAM-DATE-TIME:20-Feb-2022 (10:22:33.211370)
+#EXTINF:5.0,
+https://rr1---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1645345356&ei=7KURYqGhBtDm4ALxmoTIDg&ip=123.192.136.114&id=o-ABrrHkoc2dQJri_qzeE7DeiN4Mfi9ZkZn-jKqj-VJJaG&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=Fs&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2x6&ms=au%2Crdu&mv=m&mvi=1&pl=22&initcwndbps=1275000&vprv=1&mime=video%2Fmp4&ns=h-_hFaS9-drJtheMWnjByJkG&gir=yes&clen=1038141533&dur=2835.298&lmt=1644772102959920&mt=1645323400&fvip=1&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5432434&n=42bPryOZn_kQYFPkP&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIhAMruuw13is51EZh6vu6awccWknWFdbjSFK949_0jIyjXAiBhqezUkIxcQWBpJwbbTfikovXo8YFI23QWMG7r8ne1mA%3D%3D&sig=AOq0QJ8wRAIgJufij4FY43PFLBxjHLcFPuPE3hFKZ7O5Qz3BBbgYdhwCIEhq_gXTs3Djvd662MUkto3N2ISH2YgUIrke_QI5wEWE
