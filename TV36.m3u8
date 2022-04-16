@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:301260
-#EXT-X-DISCONTINUITY-SEQUENCE:11
-#EXT-X-PROGRAM-DATE-TIME:2022-04-16T11:24:32.340Z
-#EXTINF:2.0,
-undefined
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:1231462
+#EXT-X-DISCONTINUITY-SEQUENCE:221
+#EXT-X-PROGRAM-DATE-TIME:16-Apr-2022 (19:31:37.413295)
+#EXTINF:5.0,
+https://manifest.googlevideo.com/api/manifest/dash/expire/1650130299/ei/G6laYpOzEcf1rQT4_I7wBQ/ip/123.192.136.114/id/57_0jn6sf0s.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/force_finished/1/spc/4ocVC4Cck3jncBSbgrBUT9pbkB30/vprv/1/pacing/0/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cforce_finished%2Cspc%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP-vVdITG0P4u-oY0HJw02Y6NFsZuFiBFemskN3pPL9FAiEAsGswm2BHwz5eMVWtcIlOyFTyz6A32diqG9LS6bzRt-M%3D
