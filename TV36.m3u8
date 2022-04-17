@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:1231462
-#EXT-X-DISCONTINUITY-SEQUENCE:221
-#EXT-X-PROGRAM-DATE-TIME:16-Apr-2022 (19:31:37.413295)
-#EXTINF:5.0,
-https://manifest.googlevideo.com/api/manifest/dash/expire/1650130299/ei/G6laYpOzEcf1rQT4_I7wBQ/ip/123.192.136.114/id/57_0jn6sf0s.1/source/yt_live_broadcast/requiressl/yes/as/fmp4_audio_clear%2Cwebm_audio_clear%2Cwebm2_audio_clear%2Cfmp4_sd_hd_clear%2Cwebm2_sd_hd_clear/force_finished/1/spc/4ocVC4Cck3jncBSbgrBUT9pbkB30/vprv/1/pacing/0/keepalive/yes/fexp/24001373%2C24007246/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cas%2Cforce_finished%2Cspc%2Cvprv%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP-vVdITG0P4u-oY0HJw02Y6NFsZuFiBFemskN3pPL9FAiEAsGswm2BHwz5eMVWtcIlOyFTyz6A32diqG9LS6bzRt-M%3D
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:301260
+#EXT-X-DISCONTINUITY-SEQUENCE:11
+#EXT-X-PROGRAM-DATE-TIME:2022-04-17T02:19:36.319Z
+#EXTINF:2.0,
+https://rr1---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1650183580&ei=PHlbYrCuItzW2roPtLaoiA8&ip=123.192.136.114&id=o-AF_A7GeZ2dkr3cBVF5tHKmHLbwzUmXSU6wIR8nHXwfqi&itag=22&source=youtube&requiressl=yes&mh=mD&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xd&ms=au%2Crdu&mv=m&mvi=1&pl=22&initcwndbps=1322500&spc=4ocVC6cP3JY-QDGot0Qritey47Lc&vprv=1&mime=video%2Fmp4&ns=5BszTE2EkVhCNTEbSwfcuKoG&cnr=14&ratebypass=yes&dur=14279.993&lmt=1650123822819568&mt=1650161594&fvip=1&fexp=24001373%2C24007246&c=WEB&txp=7318224&n=AzUxlxPK8zGbVwdKGvZ&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cspc%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgJxJo1Njxiw1YTLq5PE0zvXhTIBATajRPqqwoUAC4xCwCICOD2Xn7ur8pmaYyfOFNuldkZePLXRvIXZj8ujDjgJyf&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRAIgIauHrYbcrROJ3brwWuAohSHp-fy8GqXbIa1NuNcdTjgCICY3t5cNuMBdVvj-zOCjemWcuIxu_CHUKlDboqWfUGu3
