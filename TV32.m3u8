@@ -1,7 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:1231462
-#EXT-X-DISCONTINUITY-SEQUENCE:221
-#EXT-X-PROGRAM-DATE-TIME:10-Jul-2022 (10:00:29.181224)
-#EXTINF:5.0,
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1280000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1657463213/ei/TY3KYoOkKdSRvcAP6MGc4Ac/ip/180.176.22.49/id/EB4g7wecgTI.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-3cgv-un5z.googlevideo.com/playlist_duration/30/manifest_duration/30/spc/lT-KhqdLSM8NhC5G69sDVptBMvhQKYQ/vprv/1/playlist_type/DVR/initcwndbps/1215000/mh/gz/mm/44/mn/sn-3cgv-un5z/ms/lva/mv/m/mvi/4/pcm2cms/yes/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1657441236/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AOq0QJ8wRQIgbllqakyw5t1_4jNJemcK3V9TyR_j_NxxuMisFiZeToQCIQDO0Ma9FFeN0mbETS_ql9xtdU07Ts_XSleqojhjxiC9Uw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pcm2cms,pl/lsig/AG3C_xAwRQIhAN7fOfQyswyi57MRY0utgjG3gWRMmoUVXNTnGSc6lYFtAiB6jgJuvyommZPMmXCE2Pct7QA9QglBa06LmOSL8NcgHw%3D%3D/playlist/index.m3u8
