@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:1231462
-#EXT-X-DISCONTINUITY-SEQUENCE:221
-#EXT-X-PROGRAM-DATE-TIME:22-Sep-2022 (09:00:25.391625)
-#EXTINF:5.0,
-https://rr1---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1663830027&ei=q7MrY4yDDcuOvcAPjqKziAE&ip=180.176.22.49&id=o-ABjczwaJFy3jmLRJou7SHzoRGHaVaYNV0SbdhaQ6lRqc&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=vd&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2x6&ms=au%2Crdu&mv=m&mvi=1&pl=24&initcwndbps=1110000&vprv=1&mime=video%2Fmp4&ns=Ge-TQASZOUzPY5ffWEXgcPcI&gir=yes&clen=1246402012&dur=4140.002&lmt=1663794120837133&mt=1663807758&fvip=7&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=3319224&n=nK79ScAG0sEOoVP4y9&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAIcfew3JGQ27I056HSZYKpVyi2xXe695ek0iFpbEdPj4AiEA7KyfOm1Dvw_Owg4voinWz35F_W8FMMZJxGeFH-FBxdo%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAN2V9UN1RV0awHXBTQLz3lftU3_z-_MQavqKwLXSXMfsAiEA8WxZtT-Jae8RNtPsOXJEfTZTRN_FtGSB5KlJgAunGyk%3D
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:301260
+#EXT-X-DISCONTINUITY-SEQUENCE:11
+#EXT-X-PROGRAM-DATE-TIME:2022-09-22T08:07:32.045Z
+#EXTINF:2.0,
+https://rr1---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1663855655&ei=xxcsY_TmIoPw2roP4pqy2AI&ip=180.176.22.49&id=o-AK-7IpyuSjnclKinwPnbv3QzsAJrOVyNLzfTawNKQvVu&itag=22&source=youtube&requiressl=yes&mh=vd&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2x6&ms=au%2Crdu&mv=u&mvi=1&pl=24&vprv=1&mime=video%2Fmp4&ns=rUg39spzuLWyZJWUInuTreMI&cnr=14&ratebypass=yes&dur=4140.071&lmt=1663796684018006&mt=1663833386&fvip=7&fexp=24001373%2C24007246&c=WEB&txp=3318224&n=S5Ued59-M8Gy1sGV89&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRAIgaujrPlpqU65fk5p3DQLW04Mp6KseRr6yPlS6bC3viM0CIGQRCgDL8WcBfKxbUcKKcbXR1DH-lFrYnzzn-jwXUIOU&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl&lsig=AG3C_xAwRQIhAMvcjjZCbVgr8pFDUs7tSQRO9QsweCJOgR0vcI1SgQq3AiBT2uJwukRZNDfoMYaX9hhXSL--Wqj3L9f9tbVPghDrxA%3D%3D
