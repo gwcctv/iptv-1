@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:301260
-#EXT-X-DISCONTINUITY-SEQUENCE:11
-#EXT-X-PROGRAM-DATE-TIME:2022-10-20T08:12:46.752Z
-#EXTINF:2.0,
-https://rr2---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1666275170&ei=AgNRY8uKD4KDvcAPm-S9YA&ip=180.176.22.49&id=o-AF9-IDc41NSwufEZaupgJlzJxNS6crfV_2VJfJXJjvbJ&itag=22&source=youtube&requiressl=yes&mh=3h&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xk&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=1046250&vprv=1&mime=video%2Fmp4&ns=Q3wwFnfv70P1PZdaAgQUBkII&cnr=14&ratebypass=yes&dur=4115.040&lmt=1666183580523543&mt=1666253101&fvip=8&fexp=24001373%2C24007246&c=WEB&txp=3318224&n=MwMMZtiGpJ6HA_RY1&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRgIhAKIwfrkx64MKV96SKaxApSUqZFqDrMcl45Qaiom2yiPjAiEA1q8oinOYwbS0RjrYoNu8WAb0CTWsHtIRldqmcTntzFw%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgYtl0EPvDeh9r9T9WmytBEqhh49jB3U85LP-tAqup6QkCIQC7BHGxHfQw1gv-QVAdJ5NJpK77qqIHwFrbRDcoLoVBUA%3D%3D
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:1231462
+#EXT-X-DISCONTINUITY-SEQUENCE:221
+#EXT-X-PROGRAM-DATE-TIME:20-Oct-2022 (16:43:15.136929)
+#EXTINF:5.0,
+https://rr2---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1666276997&ei=JQpRY4SnJdCQigags7rwCg&ip=180.176.22.49&id=o-AOqs-8-mWXa0q_sSKMmSaTI720WSdkTLAN8ggFDkWY7E&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=3h&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xk&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=1306250&vprv=1&mime=video%2Fmp4&ns=epaxnkTtxcHvsmSi6Pok7yAI&gir=yes&clen=1384998765&dur=4114.977&lmt=1666183058722905&mt=1666255021&fvip=8&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=3319224&n=psGUdoVyT6HF9PmfZ&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&sig=AOq0QJ8wRQIgKAUqpib-KlitxzpNFuS7f_Dny2YT9uk7JgfpXs2rYKECIQDflbT84cq7Vyu_G5fXyJ0O8A101t7fcBnJj0kiny3RrQ%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAIt2OfN4kRusNITepbRWz9a872BNHaUVhVcbxAb-4LHyAiEAxO-BpAR4wA-WpeUVAuMFQ5mxVGPPkmLmEH4KUBM_XQk%3D
