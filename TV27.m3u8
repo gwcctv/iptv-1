@@ -1,8 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:2
-#EXT-X-MEDIA-SEQUENCE:301260
-#EXT-X-DISCONTINUITY-SEQUENCE:11
-#EXT-X-PROGRAM-DATE-TIME:2022-11-05T11:28:07.408Z
-#EXTINF:2.0,
-https://rr2---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1667669291&ei=y0hmY5PGFoWAvcAP78q28Ak&ip=180.176.22.49&id=o-ANqc5w0_oM_zd89fsOz2rr3cm0crpj72IeZpDlAVi-jd&itag=22&source=youtube&requiressl=yes&mh=FE&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2x6&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=918750&vprv=1&mime=video%2Fmp4&ns=d344On5wvWnPMfbbVlYM_IwJ&cnr=14&ratebypass=yes&dur=1140.053&lmt=1667005155141252&mt=1667647252&fvip=1&fexp=24001373%2C24007246&c=WEB&txp=5318224&n=fhvJk8KPl6urCZyrSK&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AOq0QJ8wRQIhAOVWQU93eIiUlCIiyXGxydzY2Amz2AXKeDe1iIBoA9YcAiAi35I23HOy3a8x8g1irZ7dyustPir9TOVSPDzvCkB5xw%3D%3D&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRQIgV_CWsqwxpQK9GOQVlxn22V9P05RNem_i8T9WLFhEPvkCIQDYxyjAWQT1lZfBlvkvt06qMVPzAE37s6joQ25l80OYQg%3D%3D
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1280000
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1667720956/ei/nBJnY6_3Kozz2roP2eOA2AU/ip/180.176.22.49/id/sUKwTVAc0Vo.2/itag/94/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D135/hls_chunk_host/rr4---sn-3cgv-un5z.googlevideo.com/playlist_duration/30/manifest_duration/30/gcr/tw/vprv/1/playlist_type/DVR/mh/90/mm/44/mn/sn-3cgv-un5z/ms/lva/mv/u/mvi/4/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1667698405/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,playlist_duration,manifest_duration,gcr,vprv,playlist_type/sig/AOq0QJ8wRAIgUzPSabMtK4gpoQDdc7YJZmU8rCWMP2NYLfviZtU8DlMCIDhqzEAqARgOPPPfyyrnZY__SrNEiWm05R0vKMt2XCNp/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRAIgKA8o-Dc7_Eooh4D6p9RyEaEgvRTkTdAO0RCIzA8mkGcCIHTwpJnYX9xKFLrAwUTNeqDzBNc6GYtCaja2IDu4DXeX/playlist/index.m3u8
