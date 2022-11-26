@@ -1,4 +1,8 @@
 #EXTM3U
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=5420722,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1669389697/ei/IYmAY8nhFLyx2roPrJGM2Ag/ip/180.176.22.49/id/NOaJrKWpgp8.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr2---sn-3cgv-un5z.googlevideo.com/vprv/1/playlist_type/LIVE/mh/HF/mm/44/mn/sn-3cgv-un5z/ms/lva/mv/u/mvi/2/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1669366681/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,vprv,playlist_type/sig/AOq0QJ8wRgIhALutaaLt26Z4yUE3sV3rAyjEFEnLOkNADY-VreHBJ3HyAiEA5_ELZgLqcXkVkpDL0p4FZYRt-W2TjV80DLzjusuE9sw%3D/lsparams/hls_chunk_host,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgCYsU11dZBmZQ8pS8_qjadvtXUR4cHLx-AD9sZL54r_0CIQCVtUue0d6nVZOGwvx3na3vwCz6cnqAK7GsivIfkM5fuQ%3D%3D/playlist/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:1231462
+#EXT-X-DISCONTINUITY-SEQUENCE:221
+#EXT-X-PROGRAM-DATE-TIME:26-Nov-2022 (10:43:08.347305)
+#EXTINF:5.0,
+https://rr2---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1669452188&ei=O32BY8KXOYaMvcAPifWFgAk&ip=180.176.22.49&id=o-AF5rnJChnnEIsS-LVHniyLp4uNimckRoue_XF_I7jZtb&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=B2&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xd&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=1383750&vprv=1&mime=video%2Fmp4&ns=Va9fBGyva0JCAqQzrh6D7mYJ&gir=yes&clen=11310660664&dur=25222.126&lmt=1667225425271433&mt=1669430253&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5316224&n=preHEPrfSWhVwSU&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAL0Vp5EO5vdusBi-vyvGnrrT1g1mjXbwiLBm96BLs9ArAiEA0RcO35A0Y_mxr-689prOZkF9IlnHzrQrpKtrUBG09U0%3D&sig=AOq0QJ8wRgIhALDt_DCSNmrrijmJhnqEY7FuBBsH7qvlj_eHDScAIsExAiEAl-3-5cdAP6phspGdNQSc4V0BbAnPcpJov4V4vUkhh8E=
