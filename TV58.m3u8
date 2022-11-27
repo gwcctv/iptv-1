@@ -1,8 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:1231462
-#EXT-X-DISCONTINUITY-SEQUENCE:221
-#EXT-X-PROGRAM-DATE-TIME:26-Nov-2022 (21:14:45.961931)
-#EXTINF:5.0,
-https://rr2---sn-3cgv-un5z.googlevideo.com/videoplayback?expire=1669490087&ei=RxGCY8HOGJ6N2roP8p-umAs&ip=180.176.22.49&id=o-AHU1qddc2hU-gHZXfsFqzP_kTly1s9ogg8nZXohNgCvl&itag=137&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C278&source=youtube&requiressl=yes&mh=B2&mm=31%2C29&mn=sn-3cgv-un5z%2Csn-u4o-u2xd&ms=au%2Crdu&mv=m&mvi=2&pl=24&initcwndbps=566250&vprv=1&mime=video%2Fmp4&ns=Lb_333zrxs3Dklb3QFjyFlcJ&gir=yes&clen=11310660664&dur=25222.126&lmt=1667225425271433&mt=1669468181&fvip=5&keepalive=yes&fexp=24001373%2C24007246&c=WEB&txp=5316224&n=uziKcj1EQD19_VU&sparams=expire%2Cei%2Cip%2Cid%2Caitags%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Cinitcwndbps&lsig=AG3C_xAwRgIhAJ3cR8wp09oaQKsHLH3EklgaW0H_FEM4aeZgFLhLQUazAiEAjHAyssJ0Sje_n1r0hBPje9ra8dBtGMPiztj64cknjTE%3D&sig=AOq0QJ8wRAIgKHVOStlLHFFjSU33i48x-u8okaRNemQQpY6sLC3N9M8CIF8wr3LM-bP_jWLqDRoiuPVMI1RwOdJhEq3LbAmffmaR
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=5420722,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1669533810/ei/EryCY5OtA7ievcAPipGtwA8/ip/180.176.22.49/id/Er6hN3zPugk.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-3cgv-un5z.googlevideo.com/vprv/1/playlist_type/LIVE/initcwndbps/1120000/mh/q5/mm/44/mn/sn-3cgv-un5z/ms/lva/mv/m/mvi/4/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24001373,24007246/mt/1669511810/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,vprv,playlist_type/sig/AOq0QJ8wRQIgTKQW4jzsig4njQLJPg0vF9Cdv5NayAkh8x9Ts-GqmTYCIQCDjq1iOBoIdelBUf7-k4dOCLgFk89IjClnhbJ3G_KaQQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgG3vsV43DCDAQzTuKEIxwNEo-dlyCv_oFrwyjxN8GpcACIQCGFkyhN-KXWhsVjDrm9-NF0ElkW4Djs49io3iqG-owSw%3D%3D/playlist/index.m3u8
