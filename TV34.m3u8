@@ -1,4 +1,7 @@
 #EXTM3U
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=5420722,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1676455188/ei/tFjsY6nDNYaF2roPgp2e6A4/ip/123.192.99.166/id/r_wsMgFLKys.4/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/hls_chunk_host/rr4---sn-3cgv-un5z.googlevideo.com/vprv/1/playlist_type/LIVE/initcwndbps/1066250/mh/Wf/mm/44/mn/sn-3cgv-un5z/ms/lva/mv/m/mvi/4/pl/24/dover/11/pacing/0/keepalive/yes/fexp/24007246/mt/1676433157/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,vprv,playlist_type/sig/AOq0QJ8wRQIgUBMiLVHc5vesxPgcuktbUukMBZgnDHy-1lDLFjfRrfkCIQDDOGKWw9u9T-06T2GfDa9ZDQxLM5EM4aiJJnEcPygghQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/AG3C_xAwRQIgby5ryUj9nQ9gIvi9tB9ndiR7YEYLq78x2etfPP-zw3YCIQCfNmV-9h35IzEUfhSoRGfW2WclJ5_mKPOgzYp_9UUTlQ%3D%3D/playlist/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:1231462
+#EXT-X-DISCONTINUITY-SEQUENCE:221
+#EXT-X-PROGRAM-DATE-TIME:20-Feb-2023 (10:05:12.920208)
+#EXTINF:5.0,
