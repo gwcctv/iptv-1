@@ -1,4 +1,8 @@
 #EXTM3U
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=5420722,CODECS="mp4a.40.2,avc1.640028",RESOLUTION=1920x1080,FRAME-RATE=30,VIDEO-RANGE=SDR,CLOSED-CAPTIONS=NONE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690968809/ei/ic7JZPG2MMnc2roPpuuvyAc/ip/2407%3A4d00%3A1c06%3A8041%3Adf59%3Aa81a%3Ae28%3Acc33/id/QtXuawlIc3s.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2SqymYOX4ZuTPK2XbXc_4SCpS2WSgUkArINWv96A/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363393%2C51000011/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgEuMJE0wgRer3j1zSqk6MeO_DqRQzDZPm-i3rKdVXwsICIQCMRLhIWOVG7N9JTwjd3A6bFlFhZOmu92xNhNqZ7ZNM5Q%3D%3D/file/index.m3u8
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:1231462
+#EXT-X-DISCONTINUITY-SEQUENCE:221
+#EXT-X-PROGRAM-DATE-TIME:02-Aug-2023 (11:38:48.687184)
+#EXTINF:5.0,
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690969133/ei/zc_JZOzGC92B2roP_YyywAI/ip/2407%3A4d00%3A1c06%3A8041%3Adf59%3Aa81a%3Ae28%3Acc33/id/QtXuawlIc3s.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f42mMycZFHUESZtCNwUDw3LbODVxc7l-hrTpHQ/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgZTuP-sFAs06mjz1Ud8zHc7e8JM1Zcl935qsHSymE0osCIQDZ3VAFZgHVnraEqnST-5exFWRGhoux4fxy2Lze6Mm3vQ%3D%3D/file/index.m3u8
