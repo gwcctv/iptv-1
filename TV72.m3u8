@@ -1,8 +1,5 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:1231462
-#EXT-X-DISCONTINUITY-SEQUENCE:221
-#EXT-X-PROGRAM-DATE-TIME:02-Aug-2023 (11:38:50.452554)
-#EXTINF:5.0,
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690969135/ei/zs_JZM7EOpGygQPwx7GoDw/ip/2407%3A4d00%3A1c06%3A8041%3Adf59%3Aa81a%3Ae28%3Acc33/id/uuN9kvIl0xw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq7sMQBZzpdChBRloaRhylOjLSwXL_4NDUrN6Zw/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOeayB9K61INS4YjYFJkR8KTxZvljwcjcAY2ZU8FfnJmAiA9NtfPXPQRNtlZKNNcNBmZ6mkH1NZjll1mbjGsCXmdgg%3D%3D/file/index.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=540000
+#EXT-X-PROGRAM-DATE-TIME:02-Aug-2023 (14:31:08.261477)
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1690979472/ei/MPjJZNr0JcrrgQPOua_gDQ/ip/2407%3A4d00%3A1c06%3A8041%3Adf59%3Aa81a%3Ae28%3Acc33/id/uuN9kvIl0xw.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/Ul2Sq4UBZjFY_Pwh5iTaJ9VdRXi7wOVb1rermXrDUA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24362685/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgLwjPxvCHuvrTMwkamRoBaI9EV3HMCGchLBGQTj5ZafUCIC-pMyTTZRQ_LXKMx89iZve1cbwnIuhzd2AjRYouIwoI/file/index.m3u8
